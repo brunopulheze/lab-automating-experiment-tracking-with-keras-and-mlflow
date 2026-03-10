@@ -1,0 +1,11 @@
+# Ignore everything
+*
+
+# But not these files/folders
+!.gitignore
+!readme.md
+!reuters_mlflow.py
+!data/
+!data/**
+!screenshots/
+!screenshots/**
